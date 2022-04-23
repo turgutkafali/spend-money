@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Sakız",
+      "price": 0.5,
+      "image": "https://productimages.hepsiburada.net/s/22/375/9952480460850.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Kola",
+      "price": 6,
+      "image": "https://ayb.akinoncdn.com/products/2019/01/18/1796/b792f041-5479-4d5f-a74e-233d5da474bc_size780x780_quality60_cropCenter.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Ayakkabı",
+      "price": 400,
+      "image": "https://www.ayakkabicity.com/Uploads/UrunResimleri/buyuk/sanzelize-k-07-kadin-sneaker-ayakkabi-47cd.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Araba",
+      "price": 40000,
+      "image": "https://cdn-nq.toyzzshop.com/product/600x600/0f06b_Metal_Cek_Birak_Murat_131_Araba.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Gemi",
+      "price": 80000000,
+      "image": "https://i.ibb.co/sCbmRKV/Ekran-Resmi-2021-04-16-13-45-31.png"
+    },
+    {
+      "id": 6,
+      "title": "1 TL",
+      "price": 0.12,
+      "image": "https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
+    },
+    {
+      "id": 7,
+      "title": "100 TL",
+      "price": 12.40,
+      "image": "https://i.ibb.co/vPpNrdb/Ekran-Resmi-2021-04-16-13-38-07.png"
+    },
+    {
+      "id": 8,
+      "title": "iPad Pro",
+      "price": 1700,
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Çanta",
+      "price": 1500000,
+      "image": "https://www.flowerayakkabi.com/Uploads/UrunResimleri/buyuk/beyaz-deri-sirt-cantasi-2a20.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Elmas",
+      "price": 157878777,
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 11,
+      "title": "Mona Lisa",
+      "price": 2000000000,
+      "image": "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Ekmek",
+      "price": 0.1,
+      "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120000/05120000-a957e2.jpg"
+    }
+  ]
